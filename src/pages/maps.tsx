@@ -168,7 +168,7 @@ const MapComponent = () => {
         </button>
       </div>
       <div ref={mapContainer} style={{
-        height: "500px",
+        height: "325px",
         width: "100%",
         border: "5px solid #ccc",
       }}></div>
